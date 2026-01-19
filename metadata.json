@@ -1,0 +1,5 @@
+{
+  "name": "WordSwap – PDF Find & Replace",
+  "description": "A production-ready PDF utility to find and replace text across documents while preserving content integrity. Built with React and pdf-lib.",
+  "requestFramePermissions": []
+}
